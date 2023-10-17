@@ -4,9 +4,9 @@ This is an openGL project that draws a interactive robot.
 
 ## Demonstration
 
-![](https://imgur.com/a/P8CdoTa)
+![Imgur](https://imgur.com/HuQRwbI)
 
-![](https://imgur.com/VRlbXOy)
+![Imgur](https://imgur.com/VRlbXOy)
 
 
 ## Operation
